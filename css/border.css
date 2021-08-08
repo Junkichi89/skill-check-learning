@@ -1,0 +1,33 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+}
+
+div {
+  margin: 20px auto 0;
+  width: 200px;
+  height: 300px;
+  text-align: center;
+}
+
+.box-1 {
+  background: lightgrey;
+  /* border-top: 5px solid black; */
+}
+
+.box-2 {
+  background: lightblue;
+  /* border-right: 5px solid black; */
+}
+.box-3 {
+  background: lightpink;
+  /* border-bottom: 5px solid black; */
+}
+.box-4 {
+  background: lightgreen;
+  /* border-left: 5px solid black; */
+}
+.box-5 {
+  background: lightyellow;
+  /* border: 5px solid black; */
+}
